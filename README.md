@@ -12,11 +12,11 @@ Dataset - Financial Dataset
 
 steps:
 <br>
-i.Import csv file into MySQL
+• Import csv file into MySQL
 <br>
-ii.DAX Queries
+• DAX Queries
 <br>
-iii. Prepared Dashboard
+• Prepared Dashboard
 
 <br>
 Insights:
