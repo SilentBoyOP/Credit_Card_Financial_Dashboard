@@ -19,7 +19,7 @@ ii.DAX Queries
 iii. Prepared Dashboard
 
 <br>
-Insights
+Insights:
 <br>
 WoW change:
 <br>
