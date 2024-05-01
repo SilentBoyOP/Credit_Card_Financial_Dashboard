@@ -21,14 +21,6 @@ iii. Prepared Dashboard
 <br>
 Insights:
 <br>
-WoW change:
-<br>
-• Revenue increased by 28.8%, 
-<br>
-• Total Transaction Amt & Count increased by xx% & xx%
-<br>
-• Customer count increased by xx%
-<br>
 Overview YTD:
 <br>
 • Overall revenue is 57M
