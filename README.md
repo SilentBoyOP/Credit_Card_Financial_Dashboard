@@ -8,11 +8,16 @@ To develop aTo develop a comprehensive credit card weekly dashboard that provide
 
 <br>
 Dataset - Financial Dataset
+
 <br>
-steps: 
+steps:
+<br>
 i.Import csv file into MySQL
+<br>
 ii.DAX Queries
+<br>
 iii. Prepared Dashboard
+
 <br>
 Insights
 
